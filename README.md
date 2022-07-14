@@ -1,4 +1,8 @@
-### Hi there 👋
+- 🎶 nickname memento mori, 26
+- 🐄 former tumblr theme coder who's trying to learn more web dev skills
+- 👻 consistently wants to learn programming (game dev, wanna make a light word processor like og writemoneky etc) but rides the struggle bus 
+- 🔥 Overwatch team manager for a tier 1 pc team 
+- ⭐ works customer service and such by day 
 
 <!--
 **friendxship/friendxship** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
